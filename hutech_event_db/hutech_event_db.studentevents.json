@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "67dd7ab9621ba609d4d1f201"
+  },
+  "studentId": {
+    "$oid": "67dd77d2621ba609d4d1f153"
+  },
+  "eventId": {
+    "$oid": "67dd78b7621ba609d4d1f18b"
+  },
+  "userId": {
+    "$oid": "67dd728e621ba609d4d1f028"
+  },
+  "checkoutTime": null,
+  "checkinTime": {
+    "$date": "2025-03-21T14:42:01.673Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dda164c6a3ec7cb3c93a59"
+  },
+  "studentId": {
+    "$oid": "67dd9f39c6a3ec7cb3c939e5"
+  },
+  "eventId": {
+    "$oid": "67dd78b7621ba609d4d1f18b"
+  },
+  "userId": {
+    "$oid": "67dd9dfac6a3ec7cb3c9399d"
+  },
+  "checkoutTime": null,
+  "checkinTime": {
+    "$date": "2025-03-21T17:27:00.993Z"
+  },
+  "__v": 0
+}]

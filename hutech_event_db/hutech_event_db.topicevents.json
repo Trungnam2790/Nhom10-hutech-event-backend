@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "67dd78b7621ba609d4d1f18e"
+  },
+  "topicId": {
+    "$oid": "67dd78a5621ba609d4d1f187"
+  },
+  "eventId": {
+    "$oid": "67dd78b7621ba609d4d1f18b"
+  },
+  "__v": 0
+}]

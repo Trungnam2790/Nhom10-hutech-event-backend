@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "67dd797f621ba609d4d1f1b9"
+  },
+  "studentId": {
+    "$oid": "67dd7813621ba609d4d1f165"
+  },
+  "eventId": {
+    "$oid": "67dd78b7621ba609d4d1f18b"
+  },
+  "query": "Em muốn biết thêm về ứng dụng của AI trong giảng dạy",
+  "reminder24hSent": false,
+  "reminder1hSent": false,
+  "__v": 0
+}]

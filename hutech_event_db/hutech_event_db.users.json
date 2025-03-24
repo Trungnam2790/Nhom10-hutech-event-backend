@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "67dd7318621ba609d4d1f049"
+  },
+  "username": "admin",
+  "password": "$2b$10$k7iFEtcWwWzYX8SC9y9ObuHWhtCae6PgxWyhi3t3MNBF7QvTvmH1i",
+  "fullname": "Administrator",
+  "roleId": {
+    "$oid": "67dd728e621ba609d4d1f028"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dd9dfac6a3ec7cb3c9399d"
+  },
+  "username": "congtacvien",
+  "password": "$2b$10$k1JkkSV5aJEa6hrC7HU7ROPBodOcY901DrLcgW/nHOdd1mCvN9CJa",
+  "fullname": "Nguyễn Văn CTV",
+  "roleId": {
+    "$oid": "67dd9daec6a3ec7cb3c9398a"
+  },
+  "__v": 0
+}]

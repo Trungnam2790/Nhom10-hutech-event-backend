@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "67dd77d2621ba609d4d1f153"
+  },
+  "studentCode": "2011061830",
+  "fullname": "Nguyễn Văn A",
+  "class": "20DTHD4",
+  "email": "nguyenvana@gmail.com",
+  "phone": "0123456789",
+  "facebook": "nguyenvana",
+  "isMonitor": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dd77f4621ba609d4d1f15c"
+  },
+  "studentCode": "2011061831",
+  "fullname": "Trần Thị B",
+  "class": "20DTHD4",
+  "email": "tranthib@gmail.com",
+  "phone": "0987654321",
+  "facebook": "tranthib",
+  "isMonitor": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dd7813621ba609d4d1f165"
+  },
+  "studentCode": "2011061832",
+  "fullname": "Lê Văn C",
+  "class": "20DTHA2",
+  "email": "levanc@gmail.com",
+  "phone": "0369852147",
+  "facebook": "levanc",
+  "isMonitor": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dd9f39c6a3ec7cb3c939e5"
+  },
+  "studentCode": "2011061833",
+  "fullname": "Lê Thị E",
+  "class": "20DTHC2",
+  "email": "lethie@gmail.com",
+  "phone": "0909789456",
+  "facebook": "lethie",
+  "isMonitor": false,
+  "__v": 0
+}]

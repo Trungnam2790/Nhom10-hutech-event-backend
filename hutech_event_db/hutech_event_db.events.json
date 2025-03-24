@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "67dd78b7621ba609d4d1f18b"
+  },
+  "userId": {
+    "$oid": "67dd728e621ba609d4d1f028"
+  },
+  "name": "Hội thảo Công nghệ AI 2025",
+  "date": {
+    "$date": "2025-06-15T09:00:00.000Z"
+  },
+  "location": "Đại học HUTECH, Phòng A101",
+  "allowCheckin": true,
+  "hidden": false,
+  "checkinLimitTime": false,
+  "yearCode": "2025",
+  "allowCertify": true,
+  "templateId": null,
+  "hostBy": "Khoa CNTT",
+  "__v": 0
+}]

@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "67dd7a18621ba609d4d1f1dc"
+  },
+  "name": "Chứng chỉ tiêu chuẩn",
+  "data": {
+    "title": "Chứng nhận tham gia",
+    "subtitle": "Chứng nhận",
+    "footer": "Trường Đại học HUTECH"
+  },
+  "img": "certificate_template.png",
+  "isDefault": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dd7a3c621ba609d4d1f1e4"
+  },
+  "name": "Chứng chỉ tiêu chuẩn",
+  "data": {
+    "title": "Chứng nhận tham gia",
+    "subtitle": "Chứng nhận",
+    "footer": "Trường Đại học HUTECH"
+  },
+  "img": "certificate_template.png",
+  "isDefault": true,
+  "__v": 0
+}]

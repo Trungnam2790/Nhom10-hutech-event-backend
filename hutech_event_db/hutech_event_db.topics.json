@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "67dd74f9621ba609d4d1f0ad"
+  },
+  "name": "Công nghệ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dd7562621ba609d4d1f0c4"
+  },
+  "name": "Đồ án tốt nghiệp",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dd76a9621ba609d4d1f10a"
+  },
+  "name": "khoa học",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dd76ea621ba609d4d1f119"
+  },
+  "name": "Kinh tế",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dd773e621ba609d4d1f12e"
+  },
+  "name": "Nghệ thuật",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dd778f621ba609d4d1f142"
+  },
+  "name": "Giáo dục",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dd78a5621ba609d4d1f187"
+  },
+  "name": "Tin hoc",
+  "__v": 0
+}]
